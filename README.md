@@ -1,4 +1,4 @@
-# Banana Speak
+# Shakespeare Translator
 
 ![App Image](https://github.com/iajaymk/neog-mark7/blob/main/images/mark7.png)
 
